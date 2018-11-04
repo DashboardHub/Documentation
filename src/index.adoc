@@ -17,3 +17,8 @@ This is the documentation and notes for the DashboardHub team and community.
 == RETROs
 
 include::retros/index.adoc[]
+
+<<<
+== EVENTs
+
+include::events/index.adoc[]
