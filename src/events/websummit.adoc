@@ -6,15 +6,19 @@ Exhibiting in Alpha stage 2018
 
 Days running up to event.
 
-- Logistics (e.g. taxi booked for 7am, room service for breakfast)
-- Things to take
-- Tasks on the day
-   - Tanya in developer lounge
-   - Bybreen at stand with me
-- Social media accounts
-   - send to Csenge on FB messenger to DH page? Do test message today
-   - not on whatsapp because it reduces the quality of photos
-   - base hashtags (in priority order) `#websummit #opensource #dashboardhub #devops #diversity #inclusion #code`
+. Logistics (e.g. taxi booked for 7am, room service for breakfast)
+. Things to take
+. Tasks on the day
+.. Tanya in developer lounge
+.. Bybreen at stand with me
+. Social media accounts
+.. send to Csenge on FB messenger to DH page? Do test message today
+.. not on whatsapp because it reduces the quality of photos
+.. base hashtags (in priority order) `#websummit #opensource #dashboardhub #devops #diversity #inclusion #code`
+. App connections - use app to search/filter for contacts and send them our stand details
+. New UI
+.. Fix defects
+.. Deploy
 
 ### Post event
 
