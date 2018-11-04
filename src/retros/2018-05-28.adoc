@@ -1,0 +1,24 @@
+## Retro 28th of May 2018
+
+Team retrospective after first week.
+
+Team members contributing to retro:
+- Tilly
+- Eddie
+
+.Retro points
+|===
+|What worked well |What could be improved |Suggested actions
+
+|Supportive team
+|Occasionally meet up to pair
+|Pairing in person (Sat 16th of June)
+
+|Passionate team
+|Admin tasks could be improved
+|Try to use `project` board
+
+|Flexible working (time & remote) allows to be focussed & efficient
+|Larger backlog & more details
+|Eddie to put more body in the descriptions
+|===

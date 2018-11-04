@@ -1,0 +1,19 @@
+= DashboardHub Documentation
+By DashboardHub Team
+:toc:
+
+:author:    DashboardHub Team
+:date:      2018
+:version:   0.1.0
+:repo:      https://github.com/eddiejaoude/book-open-source-tips
+:docinfo1:
+
+[abstract]
+== Abstract
+
+This is the documentation and notes for the DashboardHub team and community.
+
+<<<
+== RETROs
+
+include::retros/index.adoc[]
