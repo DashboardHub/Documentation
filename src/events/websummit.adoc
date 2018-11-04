@@ -1,0 +1,28 @@
+## WebSummit
+
+Exhibiting in Alpha stage 2018
+
+### Pre event
+
+Days running up to event.
+
+- Logistics (e.g. taxi booked for 7am, room service for breakfast)
+- Things to take
+- Tasks on the day
+   - Tanya in developer lounge
+   - Bybreen at stand with me
+- Social media accounts
+   - send to Csenge on FB messenger to DH page? Do test message today
+   - not on whatsapp because it reduces the quality of photos
+   - base hashtags (in priority order) `#websummit #opensource #dashboardhub #devops #diversity #inclusion #code`
+
+### Post event
+
+.Retro
+|===
+|What worked well |What could be improved |Suggested actions
+
+|Col 1
+|Col 2
+|Col 3
+|===
