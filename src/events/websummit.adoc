@@ -18,12 +18,19 @@ Days running up to event.
 . [x] Social media accounts
 .. send to Csenge on FB messenger to DH page? Do test message today
 .. not on whatsapp because it reduces the quality of photos
-.. base hashtags (in priority order) `#websummit #opensource #dashboardhub #devops #diversity #inclusion #code`
+.. base hashtags (in priority order) `#websummit #opensource #dashboardhub #devops #diversity #inclusion #startup #code`
 . [x] Tanya dropbox to store all teams photos
 . [x] Eddie to update website strapline (+social media)
-. [ ] Eddie to do value propersition
+. [x] Eddie to do value propersition
+
+TIP: The no-setup, open-source platform that makes your deployment pipeline more transparent by ensuring everybody on your team is on the same page. DashboardHub does this by gathering the most relevant, up-to-date information, like what version is on what stage and build/deployment durations
+
 . [ ] Demo
+.. existing environment
+.. creating and setting up new environment
 . [ ] Pitch
+.. record all of our practice pitches
+.. share final pitch
 . [ ] Key objects + questions to ask people
 . [ ] Web Summit App connections - use app to search/filter for contacts and send them our stand details
 . [ ] New UI
