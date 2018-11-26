@@ -1,23 +1,23 @@
-**StatusHub:** 
+**StatusHub:** +
 https://statushub.com/
 
-**- features:** 
-- Free Trial 
-- Create incidents manually or through integrations
-- Communicate incident status and service status (or don’t)
-- Manage incidents and maintenance events across multiple services
-- Create and schedule maintenance events
-- Set history as list or calendar view
-- Create and use templates for incidents and maintenance events
-- Leverage off-site hosting
-- API
-- Hub-switcher
-- Private or public status site
-- Embeddable status sharing
-- Use of integrations
-- Multiple notification channels
-- Manage SMS usage
-- Import subscribers and manage subscription settings
+**- features:** +
+- Free Trial +
+- Create incidents manually or through integrations +
+- Communicate incident status and service status (or don’t) +
+- Manage incidents and maintenance events across multiple services +
+- Create and schedule maintenance events +
+- Set history as list or calendar view +
+- Create and use templates for incidents and maintenance events +
+- Leverage off-site hosting +
+- API +
+- Hub-switcher +
+- Private or public status site +
+- Embeddable status sharing +
+- Use of integrations +
+- Multiple notification channels +
+- Manage SMS usage +
+- Import subscribers and manage subscription settings +
 
 **- pricing:** 
 - monthly: $49 - $299
