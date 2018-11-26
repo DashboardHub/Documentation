@@ -1,0 +1,148 @@
+**StatusHub:** +
+https://statushub.com/
+
+** features:** +
+- Free Trial +
+- Create incidents manually or through integrations +
+- Communicate incident status and service status (or don’t) +
+- Manage incidents and maintenance events across multiple services +
+- Create and schedule maintenance events +
+- Set history as list or calendar view +
+- Create and use templates for incidents and maintenance events +
+- Leverage off-site hosting +
+- API +
+- Hub-switcher +
+- Private or public status site +
+- Embeddable status sharing +
+- Use of integrations +
+- Multiple notification channels +
+- Manage SMS usage +
+- Import subscribers and manage subscription settings +
+
+** pricing:** +
+- monthly: $49 - $299 +
+- yearly: $529 - $3,229 +
+
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+
+**StatusPage:** +
+https://www.statuspage.io/ +
+
+** features:** +
+- Better communication with Incidents +
+- Status for each part of your service with Components +
+- Inform users about future Scheduled Maintenance +
+- Incident Templates +
+- Third Party Components +
+- ChatOps Integrations +
+- Status Embed +
+- Automation Integrations +
+- API +
+- Proactively notify users +
+- Get the right notification to the right user +
+- Notification redundancy +
+- Uptime Showcase +
+- Display how well your systems are performing (system metrics) +
+- Import data from tools you already use +
+- Custom Logo and URL +
+- Maintain your brand's design +
+- Designed for every device +
+- For internal eyes only +
+- Say goodbye to duplicate IT tickets +
+- Pipe status updates into Slack +
+
+** pricing:** +
+- public page (monthly): $29 - $1,499 +
+- private page (monthly): $79 - $1,499 +
+
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+**Pingdom:** +
+https://www.pingdom.com/ +
+
+** features:** +
+- uptime monitoring +
+- alerting +
+- page speed monitoring +
+- real user monitoring +
+- transaction monitoring +
+- server monitor +
+
+** pricing:** +
+- monthly: $14.95 - $249 +
+- yearly: $11.95 - $199 (per month) +
+
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+**Instana:** +
+https://www.instana.com/ +
+- application performance management +
+- infrastructure monitoring +
+
+** features:** +
+** pricing:** +
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+**Atlassian:** +
+https://www.atlassian.com/ +
+- Bamboo +
+- Jira Software +
+- Jira Ops +
+- Jira Core +
+- StatusPage +
+- OpsGenie +
+- only research the most relevant ones +
+
+** features:** +
+** pricing:** +
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+**SignalFx:** +
+https://www.signalfx.com/ +
+
+** features:** +
+- full stack metrics +
+- distributed tracing +
+- events +
+- logs +
+- streaming analytics +
+- nosample tracing +
+- signalflow data science +
+- mutable metadata +
+- instant discovery +
+- high resolution +
+- smart alerts +
+- full stack correlation +
+- service maps +
+- dashboards +
+- devops collaboration +
+- APIs +
+- service bureau +
+- cloud costing +
+
+** pricing:** +
+- per host per month: $15 - $65 +
+
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
+
+**Dynatrace:** +
+https://www.dynatrace.com/ +
+
+** features:** +
+** pricing:** +
+** marketing strategies:** +
+** social media:** +
+** popularity:** +
