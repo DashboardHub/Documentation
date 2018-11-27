@@ -83,27 +83,41 @@ https://www.pingdom.com/ +
 
 **Instana:** +
 https://www.instana.com/ +
-- application performance management +
-- infrastructure monitoring +
+- application performance management (APM) +
+- infrastructure monitoring(IM) +
 
 **features:** +
+- automatically and continuously aligns to every change that results from continuous deployment +
+- delivers actionable information in seconds, not minutes, allowing you to operate at the speed of CI/CD +
+- AI powered APM delivers intelligent analysis and actionable information +
+
 **pricing:** +
+- APM: $67 per host per month +
+- IM: $10 per host per month +
+
 **marketing strategies:** +
 **social media:** +
 **popularity:** +
 
 **Atlassian:** +
 https://www.atlassian.com/ +
-- Bamboo +
-- Jira Software +
-- Jira Ops +
-- Jira Core +
 - StatusPage +
-- OpsGenie +
-- only research the most relevant ones +
+- OpsGenie: With deep integrations into monitoring, ticketing, and chat tools, Opsgenie groups alerts, filters out the noise, and notifies you using multiple channels, providing the necessary information for your team to begin immediate resolution. +
 
 **features:** +
+- Status for each part of your service with Components +
+- Inform users about future Scheduled Maintenance +
+- Incident Templates +
+- Third Party Components +
+- ChatOps Integrations +
+- API + 
+- Automation Integrations +
+- Status Embed +
+
 **pricing:** +
+- public page per month: $29 - $1,499 +
+- private page per month: $79 - $1,499 +
+
 **marketing strategies:** +
 **social media:** +
 **popularity:** +
@@ -139,10 +153,21 @@ https://www.signalfx.com/ +
 **popularity:** +
 
 **Dynatrace:** +
-https://www.dynatrace.com/ +
+https://www.dynatrace.com/ + 
+- application performance management (APM) +
 
-**features:** +
+**features:** + 
+- automated +
+- full stack + 
+- AI-powered +
+- Web-scale for 100.000+ hosts +
+- Enterprise governance and security +
+- Flexible deployment options +
+
 **pricing:** +
+- free trial +
+- actual price not given +
+
 **marketing strategies:** +
 **social media:** +
 **popularity:** +
