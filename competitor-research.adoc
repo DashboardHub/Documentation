@@ -25,6 +25,11 @@ https://statushub.com/
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 1 like, nothing since 2017 +
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 
@@ -60,6 +65,11 @@ https://www.statuspage.io/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 242 likes, nothing since 2017 +
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 **Pingdom:** +
@@ -79,6 +89,11 @@ https://www.pingdom.com/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 55k likes, regular posts, little engagement with posts +
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 **Instana:** +
@@ -97,6 +112,11 @@ https://www.instana.com/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 326 likes, regular posts, little engagement with posts +
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 **Atlassian:** +
@@ -120,6 +140,11 @@ https://www.atlassian.com/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 209k likes, regular posts, little engagement with posts +
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 **SignalFx:** +
@@ -150,6 +175,11 @@ https://www.signalfx.com/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 410 likes, regular posts, little engagement with posts + 
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
 
 **Dynatrace:** +
@@ -170,4 +200,9 @@ https://www.dynatrace.com/ +
 
 **marketing strategies:** +
 **social media:** +
+- Facebook: 3k likes, regular posts, little engagement with posts + 
+- Twitter + 
+- LinkedIn + 
+- Instagram + 
+
 **popularity:** +
