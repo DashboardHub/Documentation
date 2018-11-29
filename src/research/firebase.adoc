@@ -1,0 +1,14 @@
+# Firebase research
+
+## Checklist
+
+- [ ] DB
+- [ ] Typescript
+- [ ] CRUD
+- [ ] API
+- [ ] local development / automated testing
+- [ ] Auth
+- [ ] frontend hosting
+- [ ] pub/sub
+- [ ] offline
+- [ ] Manage users
