@@ -8,6 +8,7 @@
 - [ ] API
 - [ ] local development / automated testing
 - [ ] Auth
+- [ ] Deployment (from CI)
 - [ ] frontend hosting
 - [ ] pub/sub
 - [ ] offline
