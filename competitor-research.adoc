@@ -26,7 +26,7 @@ https://statushub.com/
 **marketing strategies:** +
 **social media:** +
 - Facebook: 1 like, nothing since 2017 +
-- Twitter + 
+- Twitter: monthly posts, 57 followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
@@ -66,7 +66,7 @@ https://www.statuspage.io/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 242 likes, nothing since 2017 +
-- Twitter + 
+- Twitter: not in use since 2014 + 
 - LinkedIn + 
 - Instagram + 
 
@@ -90,7 +90,7 @@ https://www.pingdom.com/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 55k likes, regular posts, little engagement with posts +
-- Twitter + 
+- Twitter: regular posts, 94k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
@@ -113,7 +113,7 @@ https://www.instana.com/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 326 likes, regular posts, little engagement with posts +
-- Twitter + 
+- Twitter: regular posts, 3k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
@@ -141,7 +141,7 @@ https://www.atlassian.com/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 209k likes, regular posts, little engagement with posts +
-- Twitter + 
+- Twitter: frequent posts, 76k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
@@ -176,7 +176,7 @@ https://www.signalfx.com/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 410 likes, regular posts, little engagement with posts + 
-- Twitter + 
+- Twitter: frequent posts, 2k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
@@ -201,7 +201,7 @@ https://www.dynatrace.com/ +
 **marketing strategies:** +
 **social media:** +
 - Facebook: 3k likes, regular posts, little engagement with posts + 
-- Twitter + 
+- Twitter: frequent posts, 15k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
