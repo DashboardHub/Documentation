@@ -6,7 +6,7 @@
 - [ ] Typescript
 - [ ] CRUD
 - [ ] API
-- [ ] local development / automated testing
+- [ ] local development / automated testing / open source contributions
 - [ ] Auth
 - [ ] Deployment (from CI)
 - [ ] frontend hosting
