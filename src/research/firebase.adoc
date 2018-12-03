@@ -7,7 +7,7 @@
 - [ ] Validation
 - [ ] CRUD
 - [ ] API (validation function?)
-- [ ] local development / automated testing - This could be an issue, needs more investigation.
+- [ ] local development / automated testing / open source contributions - This could be an issue, needs more investigation.
 - [ ] Auth
 - [ ] Deployment (from CI)
 - [x] frontend hosting - Simple deployment and cloud front alternative.
