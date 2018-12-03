@@ -2,14 +2,15 @@
 
 ## Checklist
 
-- [ ] DB
-- [ ] Typescript
+- [x] DB - No SQL
+- [x] Typescript
+- [ ] Validation
 - [ ] CRUD
-- [ ] API
-- [ ] local development / automated testing
+- [ ] API (validation function?)
+- [ ] local development / automated testing - This could be an issue, needs more investigation.
 - [ ] Auth
 - [ ] Deployment (from CI)
-- [ ] frontend hosting
-- [ ] pub/sub
+- [x] frontend hosting - Simple deployment and cloud front alternative.
+- [x] pub/sub
 - [ ] offline
 - [ ] Manage users
