@@ -4,13 +4,20 @@
 
 - [x] DB - No SQL
 - [x] Typescript
-- [ ] Validation
-- [ ] CRUD
-- [ ] API (validation function?)
+- [x] pub/sub - out of the box
+- [x] frontend hosting - Simple deployment and cloud front alternative
+- [x] Deployment (from CI) - CLI
+- [x] CRUD
+- [x] offline
+- [ ] Validation - rules file, function?
+- [ ] API - not used by UI
 - [ ] local development / automated testing / open source contributions - This could be an issue, needs more investigation.
 - [ ] Auth
-- [ ] Deployment (from CI)
-- [x] frontend hosting - Simple deployment and cloud front alternative.
-- [x] pub/sub
-- [ ] offline
 - [ ] Manage users
+
+## Dashboard criteria
+
+- [x] GitHub OAuth
+- [x] Realtime
+- [x] Aggregations - keep totals in parent document
+- [ ] Pings (every 30mins)
