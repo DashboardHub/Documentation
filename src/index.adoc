@@ -22,3 +22,8 @@ include::retros/index.adoc[]
 == EVENTs
 
 include::events/index.adoc[]
+
+<<<
+== RESEARCH
+
+include::research/index.adoc[]
