@@ -1,2 +1,3 @@
 include::competitors.adoc[]
+
 include::firebase.adoc[]
