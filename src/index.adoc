@@ -1,7 +1,6 @@
 = DashboardHub Documentation
 By DashboardHub Team
 :toc:
-
 :author:    DashboardHub Team
 :date:      2018
 :version:   0.1.0
