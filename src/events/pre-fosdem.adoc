@@ -1,0 +1,27 @@
+=== Pre Fosdem
+
+- [x] DashboardHub mini pivot
+- [x] Swag purchase
+   - ~~Open source stickers with DashboardHub on them~~
+   - PostIts https://www.promotique.co.uk/product/deluxe-accent-memo-booklet/PV-800Q443K5KW9
+   - Bags
+- Sketch video
+- [x] Logistics Fosdem
+
+=== Actions
+
+- Csenge
+   - bags (ideally orange bag with double sided logo)
+
+- Sketch video
+  - Video
+  - https://github.com/DashboardHub/PipelineDashboard/issues/935[Voice over]
+  
+=== To bring
+
+- laptop (Csenge also)
+- power adapter
+- power extension / splitter
+- studio clips/clamps
+- posters x3
+- https://www.amazon.co.uk/gp/product/B06WW2J6HB/ref=ox_sc_act_title_1?smid=A3JQMK3CH0VI6T&psc=1[table cloth]
