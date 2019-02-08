@@ -12,12 +12,12 @@
 - [x] local development / automated testing / open source contributions - Testing uses the cloud, recommended to use Cypress https://angularfirebase.com/lessons/cypress-angular-testing-end-to-end/
 - [ ] Validation - rules file, function?
 - [ ] API - not used by UI
-- [ ] Auth
-- [ ] Manage users
+- [x] Auth
+- [ ] ~~Manage users~~
 
 ## Dashboard criteria
 
 - [x] GitHub OAuth
 - [x] Realtime
 - [x] Aggregations - keep totals in parent document
-- [ ] Pings (every 30mins)
+- [x] Pings (every 30mins) - seems possible with recent annoucements

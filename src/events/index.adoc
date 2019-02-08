@@ -1,3 +1,4 @@
 include::startup-grind.adoc[]
 include::websummit.adoc[]
 include::pre-fosdem.adoc[]
+include::post-fosdem.adoc[]
