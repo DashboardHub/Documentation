@@ -1,0 +1,39 @@
+=== Post Fosdem
+
+==== What worked work
+
+- Stand location
+- Arival/departure timings
+- Good swag (x3)
+- Elevator pitch was good + consistent
+- Fosdem had good audience
+- Good communication with audience and betwen the team
+- 3 people on the stand
+- Lots of new connections / relationships
+- Best exhibiting we have done
+- Vlogs worked well
+
+==== What could be improved
+
+- More swag (x3)
+- Postcards incorrect information (x3)
+- Highly technical discussions
+- 4 people taking shifts would allow going to talks / talking to other stands
+- DashboardHub improvements - new version etc
+- Didnt get Andrew in vlog
+- The team in front of the stand in the vlog
+- PostIt notes needed url
+
+==== Actions
+
+- Chat with Andrew in Fosdem like place for vlog
+- Next event?
+- Order more swag (event dependent)
+- GitHub project board (now to be post fosdem)
+- Next verison of DashboardHub out (by March)
+
+==== Notes
+
+- Mascot? + Suit
+-
+-
