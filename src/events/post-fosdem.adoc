@@ -34,6 +34,14 @@
 
 ==== Notes
 
+- People were happy there was no agent to install 
+- Promotheus 
+- trigger and approval through DH when you have a PR 
+- one click deployment (CLI)
+- extra/custom data in curl commands 
+- automatic dependency updates - Greenkeeper 
+- compatibility with GitLab 
+- code on T-shirts 
 - Mascot? + Suit
--
--
+- coding challenge on a laptop with mentoring 
+- side shoe horn for camera 
