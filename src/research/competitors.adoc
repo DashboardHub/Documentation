@@ -1,3 +1,5 @@
+=== Main competitors
+
 **StatusHub:** +
 https://statushub.com/
 
@@ -95,6 +97,10 @@ https://www.pingdom.com/ +
 - Instagram + 
 
 **popularity:** +
+
+---
+
+### Wider competitors
 
 **Instana:** +
 https://www.instana.com/ +
