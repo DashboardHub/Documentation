@@ -1,102 +1,126 @@
 === Main competitors
 
-**StatusHub:** +
+**StatusHub:**
+
 https://statushub.com/
 
-**features:** +
-- Free Trial +
-- Create incidents manually or through integrations +
-- Communicate incident status and service status (or don’t) +
-- Manage incidents and maintenance events across multiple services +
-- Create and schedule maintenance events +
-- Set history as list or calendar view +
-- Create and use templates for incidents and maintenance events +
-- Leverage off-site hosting +
-- API +
-- Hub-switcher +
-- Private or public status site +
-- Embeddable status sharing +
-- Use of integrations +
-- Multiple notification channels +
-- Manage SMS usage +
-- Import subscribers and manage subscription settings +
+**features:**
 
-**pricing:** +
-- monthly: $49 - $299 +
-- yearly: $529 - $3,229 +
+- Free Trial
+- Create incidents manually or through integrations
+- Communicate incident status and service status (or don’t)
+- Manage incidents and maintenance events across multiple services
+- Create and schedule maintenance events
+- Set history as list or calendar view
+- Create and use templates for incidents and maintenance events
+- Leverage off-site hosting
+- API
+- Hub-switcher
+- Private or public status site
+- Embeddable status sharing
+- Use of integrations
+- Multiple notification channels
+- Manage SMS usage
+- Import subscribers and manage subscription settings
 
-**marketing strategies:** +
-**social media:** +
-- Facebook: 1 like, nothing since 2017 +
-- Twitter: monthly posts, 57 followers, not much engagement, no hashtags + 
-- LinkedIn + 
-- Instagram + 
+**pricing:**
 
-**popularity:** +
+- monthly: $49 - $299
+- yearly: $529 - $3,229
 
+**marketing strategies:**
 
-**StatusPage:** +
-https://www.statuspage.io/ +
+- TBD
 
-**features:** +
-- Better communication with Incidents +
-- Status for each part of your service with Components +
-- Inform users about future Scheduled Maintenance +
-- Incident Templates +
-- Third Party Components +
-- ChatOps Integrations +
-- Status Embed +
-- Automation Integrations +
-- API +
-- Proactively notify users +
-- Get the right notification to the right user +
-- Notification redundancy +
-- Uptime Showcase +
-- Display how well your systems are performing (system metrics) +
-- Import data from tools you already use +
-- Custom Logo and URL +
-- Maintain your brand's design +
-- Designed for every device +
-- For internal eyes only +
-- Say goodbye to duplicate IT tickets +
-- Pipe status updates into Slack +
+**social media:**
 
-**pricing:** +
-- public page (monthly): $29 - $1,499 +
-- private page (monthly): $79 - $1,499 +
+- Facebook: 1 like, nothing since 2017
+- Twitter: monthly posts, 57 followers, not much engagement, no hashtags
+- LinkedIn
+- Instagram
 
-**marketing strategies:** +
-**social media:** +
-- Facebook: 242 likes, nothing since 2017 +
-- Twitter: not in use since 2014 + 
-- LinkedIn + 
-- Instagram + 
+**popularity:**
 
-**popularity:** +
+- TBD
 
-**Pingdom:** +
-https://www.pingdom.com/ +
+**StatusPage:**
 
-**features:** +
-- uptime monitoring +
-- alerting +
-- page speed monitoring +
-- real user monitoring +
-- transaction monitoring +
-- server monitor +
+https://www.statuspage.io/
 
-**pricing:** +
-- monthly: $14.95 - $249 +
-- yearly: $11.95 - $199 (per month) +
+**features:**
 
-**marketing strategies:** +
-**social media:** +
-- Facebook: 55k likes, regular posts, little engagement with posts +
-- Twitter: regular posts, 94k followers, not much engagement, no hashtags + 
-- LinkedIn + 
-- Instagram + 
+- Better communication with Incidents
+- Status for each part of your service with Components
+- Inform users about future Scheduled Maintenance
+- Incident Templates
+- Third Party Components
+- ChatOps Integrations
+- Status Embed
+- Automation Integrations
+- API
+- Proactively notify users
+- Get the right notification to the right user
+- Notification redundancy
+- Uptime Showcase
+- Display how well your systems are performing (system metrics)
+- Import data from tools you already use
+- Custom Logo and URL
+- Maintain your brand's design
+- Designed for every device
+- For internal eyes only
+- Say goodbye to duplicate IT tickets
+- Pipe status updates into Slack
 
-**popularity:** +
+**pricing:**
+
+- public page (monthly): $29 - $1,499
+- private page (monthly): $79 - $1,499
+
+**marketing strategies:**
+
+- TBD
+
+**social media:**
+- Facebook: 242 likes, nothing since 2017
+- Twitter: not in use since 2014
+- LinkedIn
+- Instagram
+
+**popularity:**
+
+- TBD
+
+**Pingdom:**
+
+https://www.pingdom.com/
+
+**features:**
+
+- uptime monitoring
+- alerting
+- page speed monitoring
+- real user monitoring
+- transaction monitoring
+- server monitor
+
+**pricing:**
+
+- monthly: $14.95 - $249
+- yearly: $11.95 - $199 (per month)
+
+**marketing strategies:**
+
+- TBD
+
+**social media:**
+- Facebook: 55k likes, regular posts, little engagement with posts
+- Twitter: regular posts, 94k followers, not much engagement, no hashtags
+- LinkedIn
+- Instagram
+
+**popularity:**
+
+- TBD
 
 ---
 
