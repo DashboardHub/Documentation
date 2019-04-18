@@ -139,7 +139,12 @@ https://www.pingdom.com/
 
 **marketing strategies:**
 
-- TBD
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
 
 **social media:**
 - Facebook: 55k likes, regular posts, little engagement with posts
@@ -149,7 +154,6 @@ https://www.pingdom.com/
 
 **popularity:**
 
-- TBD
 
 --- 
 
@@ -158,17 +162,102 @@ https://www.pingdom.com/
 **Octobox:**
 https://octobox.io/
 
+**features:**
+
+**pricing:**
+
+**marketing strategies:**
+
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
+
+**social media:**
+
+**popularity:**
+
 **Uptrends:**
 https://www.uptrends.com/
+
+**features:**
+
+**pricing:**
+
+**marketing strategies:**
+
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
+
+**social media:**
+
+**popularity:**
 
 **Uptime Robot:**
 https://uptimerobot.com/
 
+**features:**
+
+**pricing:**
+
+**marketing strategies:**
+
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
+
+**social media:**
+
+**popularity:**
+
 **New Relic:**
 https://newrelic.com/
 
+**features:**
+
+**pricing:**
+
+**marketing strategies:**
+
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
+
+**social media:**
+
+**popularity:**
+
 **Site24x&:**
 https://www.site24x7.com/
+
+**features:**
+
+**pricing:**
+
+**marketing strategies:**
+
+- brand: 
+- advertising: 
+- target audience: 
+- USP: 
+
+**customers:**
+
+**social media:**
+
+**popularity:**
 
 ---
 
