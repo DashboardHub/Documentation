@@ -6,31 +6,39 @@ https://statushub.com/
 
 **features:**
 
-- Free Trial
-- Create incidents manually or through integrations
-- Communicate incident status and service status (or don’t)
-- Manage incidents and maintenance events across multiple services
+- Incident Communication 
 - Create and schedule maintenance events
-- Set history as list or calendar view
-- Create and use templates for incidents and maintenance events
-- Leverage off-site hosting
 - API
+- Off-site Hosting 
 - Hub-switcher
 - Private or public status site
 - Embeddable status sharing
-- Use of integrations
+- Connect to monitoring tools 
 - Multiple notification channels
-- Manage SMS usage
-- Import subscribers and manage subscription settings
+- Import subscribers and manage subscription settings via CSV import tool 
 
 **pricing:**
 
-- monthly: $49 - $299
-- yearly: $529 - $3,229
+- free trial  
+
+- monthly:
+- basic: $49
+- standard: $99
+- premium: $299
+- enterprise: contact them 
+
+- yearly:
+- basic: $529
+- standard: $1,069
+- premium: $3,229
+- enterprise: contact them 
 
 **marketing strategies:**
 
-- TBD
+- brand: efficiency, flexibility, communication, trust 
+- advertising: social media, blog posts on website, seems minimal though
+- target audience: tech people 
+- USP: automatic incident communication
 
 **social media:**
 
@@ -38,10 +46,19 @@ https://statushub.com/
 - Twitter: monthly posts, 57 followers, not much engagement, no hashtags
 - LinkedIn
 - Instagram
+- not really used 
+
+**customers:**
+
+- colleges, universities, companies 
+- Iowa State University, Michigan State University, University of Wales 
+- Accruent, Bottomline Technologies, Citrix, Fannie Mae, McKesson
 
 **popularity:**
 
-- TBD
+- some featured customers on website, did not find much about it nor reviews 
+
+
 
 **StatusPage:**
 
@@ -49,46 +66,58 @@ https://www.statuspage.io/
 
 **features:**
 
-- Better communication with Incidents
-- Status for each part of your service with Components
-- Inform users about future Scheduled Maintenance
+- Displays incidents 
+- Shows status of each function/component: https://help.statuspage.io/knowledge_base/topics/overview-1
+- Inform users about Scheduled Maintenance
 - Incident Templates
-- Third Party Components
-- ChatOps Integrations
-- Status Embed
 - Automation Integrations
 - API
-- Proactively notify users
-- Get the right notification to the right user
-- Notification redundancy
-- Uptime Showcase
-- Display how well your systems are performing (system metrics)
-- Import data from tools you already use
-- Custom Logo and URL
-- Maintain your brand's design
-- Designed for every device
-- For internal eyes only
-- Say goodbye to duplicate IT tickets
-- Pipe status updates into Slack
+- System metrics
 
 **pricing:**
 
-- public page (monthly): $29 - $1,499
-- private page (monthly): $79 - $1,499
+- free trial 
+
+Monthly: 
+
+Public Page: 
+
+- hobby: $29
+- startup: $99
+- business: $399
+- enterprise: $1,499
+
+Private Page: 
+
+- starter: $79
+- growth: $249
+- corporate: $599
+- enterprise: $1,499
+
 
 **marketing strategies:**
 
-- TBD
+- brand: trust, easy communication
+- advertising: mainly through Atlassian 
+- target audience: support, devops and IT teams, incident response teams, marketing and sales teams
+- USP: 
+
+**customers:**
+
+- SaaS companies, Dev, IT Teams, Universities 
+- Digital Ocean, Reddit, University of Colorado, MIT 
 
 **social media:**
 - Facebook: 242 likes, nothing since 2017
 - Twitter: not in use since 2014
 - LinkedIn
 - Instagram
+- not really in use, mainly Atlassian 
 
 **popularity:**
 
-- TBD
+- thousands of companies as customers
+
 
 **Pingdom:**
 
@@ -122,6 +151,25 @@ https://www.pingdom.com/
 
 - TBD
 
+--- 
+
+### New competitors found
+
+**Octobox:**
+https://octobox.io/
+
+**Uptrends:**
+https://www.uptrends.com/
+
+**Uptime Robot:**
+https://uptimerobot.com/
+
+**New Relic:**
+https://newrelic.com/
+
+**Site24x&:**
+https://www.site24x7.com/
+
 ---
 
 ### Wider competitors
@@ -140,14 +188,13 @@ https://www.instana.com/ +
 - APM: $67 per host per month +
 - IM: $10 per host per month +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 326 likes, regular posts, little engagement with posts +
 - Twitter: regular posts, 3k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
+
 
 **Atlassian:** +
 https://www.atlassian.com/ +
@@ -168,14 +215,13 @@ https://www.atlassian.com/ +
 - public page per month: $29 - $1,499 +
 - private page per month: $79 - $1,499 +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 209k likes, regular posts, little engagement with posts +
 - Twitter: frequent posts, 76k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
+
 
 **SignalFx:** +
 https://www.signalfx.com/ +
@@ -203,14 +249,13 @@ https://www.signalfx.com/ +
 **pricing:** +
 - per host per month: $15 - $65 +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 410 likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 2k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
+
 
 **Dynatrace:** +
 https://www.dynatrace.com/ + 
@@ -228,11 +273,8 @@ https://www.dynatrace.com/ +
 - free trial +
 - actual price not given +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 3k likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 15k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
-
-**popularity:** +
