@@ -97,10 +97,10 @@ Private Page:
 
 **marketing strategies:**
 
-- brand: trust, easy communication
+- brand: trust, easy communication, “Just like DigitalOcean, Dropbox, and Intercom“
 - advertising: mainly through Atlassian 
 - target audience: support, devops and IT teams, incident response teams, marketing and sales teams
-- USP: 
+- USP: comprehensive status page, “everything you need in a status page, right out of the box“
 
 **customers:**
 
@@ -131,29 +131,46 @@ https://www.pingdom.com/
 - real user monitoring
 - transaction monitoring
 - server monitor
+- tailor incident management 
+- real time alerts
 
 **pricing:**
 
-- monthly: $14.95 - $249
-- yearly: $11.95 - $199 (per month)
+Monthly: 
+
+- starter: £9.95
+- standard: £33.95
+- advanced: £59.95
+- professional: £164.00
+
+Yearly: (per month) 
+
+- starter: £7.95
+- standard: £27.00 
+- advanced: £48.00
+- professional: £131.00
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: easy, efficient, a solution, puts you ahead of competitors 
+- advertising: social media, customer reviews 
+- target audience: e-commerce, developers, managers
+- USP: amazing end-user experience 
 
 **customers:**
+
+- all kinds of companies, including Imgur, Netflix, Evernote, Shopify and Buzzfeed 
 
 **social media:**
 - Facebook: 55k likes, regular posts, little engagement with posts
 - Twitter: regular posts, 94k followers, not much engagement, no hashtags
-- LinkedIn
-- Instagram
+- LinkedIn: not really in use 
+- Instagram: not really in use 
+- blog on website 
 
 **popularity:**
 
+- 850,000 users, very popular 
 
 --- 
 
@@ -164,40 +181,82 @@ https://octobox.io/
 
 **features:**
 
+- manages GitHub notifications 
+- host your own 
+
 **pricing:**
+
+- free for open source projects 
+- private repositories: from $10/user/month
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: open source, efficient, easy managing 
+- advertising: cant find anything 
+- target audience: github users with several projects 
+- USP: github notification management 
 
 **customers:**
 
+- developers from Facebook, Google, Angular etc 
+
 **social media:**
 
+- no Instagram, Facebook or LinkedIn
+- Twitter: new, fairly regular posts 
+
 **popularity:**
+
+- not sure
+
 
 **Uptrends:**
 https://www.uptrends.com/
 
 **features:**
 
+- website monitoring 
+- web application monitoring 
+- web performance monitoring 
+- API monitoring 
+- real user monitoring 
+- server monitoring 
+
 **pricing:**
+
+Basic Monthly: 
+
+- starter: £7.43
+- premium: £25.98
+- professional: £103.92
+
+Advanced Monthly:
+
+- business: £17.78
+- enterprise: £32.17
+
+Yearly: 
+20% off monthly 
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: comprehensive, for teams, adaptable 
+- advertising: live product demo, social media, customer reviews 
+- target audience: tech teams 
+- USP: ultimate monitoring tool 
 
 **customers:**
 
+- companies like Microsoft, HP, Lenovo, Virgin etc. 
+
 **social media:**
 
+- used to advertise and engage, regular posts on Facebook, Twitter and LinkedIn
+
 **popularity:**
+
+- 25,000 users 
+
 
 **Uptime Robot:**
 https://uptimerobot.com/
@@ -219,6 +278,7 @@ https://uptimerobot.com/
 
 **popularity:**
 
+
 **New Relic:**
 https://newrelic.com/
 
@@ -238,6 +298,7 @@ https://newrelic.com/
 **social media:**
 
 **popularity:**
+
 
 **Site24x&:**
 https://www.site24x7.com/
