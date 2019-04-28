@@ -98,7 +98,7 @@ Private Page:
 **marketing strategies:**
 
 - brand: trust, easy communication, “Just like DigitalOcean, Dropbox, and Intercom“
-- advertising: mainly through Atlassian 
+- advertising: mainly through Atlassian, Google ads 
 - target audience: support, devops and IT teams, incident response teams, marketing and sales teams
 - USP: comprehensive status page, “everything you need in a status page, right out of the box“
 
@@ -263,20 +263,38 @@ https://uptimerobot.com/
 
 **features:**
 
+- website monitoring 
+- downtime notifications 
+- API 
+- public status page 
+
 **pricing:**
+
+- free 
+- pro-plan: $4.50/month 
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: simple, effective, efficient, friendly 
+- advertising: social media 
+- target audience: IT teams 
+- USP: simplicity
 
 **customers:**
 
+- companies like Mini and Expedia 
+
 **social media:**
 
+- Twitter: 15k followers, active, interactive 
+- Facebook: 5k followers, active 
+- LinkedIn: not in use 
+- Instagram: no
+
 **popularity:**
+
+- 600,000+ users
+- good reviews: https://www.g2.com/products/uptimerobot/reviews
 
 
 **New Relic:**
@@ -284,41 +302,81 @@ https://newrelic.com/
 
 **features:**
 
+- real time analytics: metrics, dashboards and alerts 
+- full stack visibility: customer experience, applications and infrastructure 
+- scalable cloud platform 
+- applied intelligence 
+
 **pricing:**
+
+- $69-999/month/app
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: efficient, clear, useful, improvement, customer tested and trusted
+- advertising: customer reviews, partnerships with IBM Bluemix, Amazon Web Services and Microsoft Azure and more
+- target audience: DevOps, managers 
+- USP: improves your business 
 
 **customers:**
 
+- companies like Ryanair and Condé Nast 
+
 **social media:**
+
+- Instagram: focused on community 
+- Facebook: active, interactive, 30k+ followers
+- Twitter: active, interactive, 70k+ followers
+- LinkedIn: active, interactive, 40k+ followers
 
 **popularity:**
 
+- over 17,000 customers 
+- huge revenue, on stock exchange 
 
-**Site24x&:**
+
+**Site24x7:**
 https://www.site24x7.com/
 
 **features:**
 
+- website monitoring 
+- server monitoring 
+- application monitoring 
+- network monitoring 
+- real user monitoring 
+
 **pricing:**
+
+- free trial 
+
+All in one plan/month: 
+- pro: $35
+- classic: $89
+- elite: $225
+- enterprise: $449
 
 **marketing strategies:**
 
-- brand: 
-- advertising: 
-- target audience: 
-- USP: 
+- brand: simple, comprehensive, effective
+- advertising: referral partners, reseller partners, social media 
+- target audience: DevOps and IT operations 
+- USP: all in one monitoring solution 
 
 **customers:**
 
+- companies like Nasa, cisco, ford 
+
 **social media:**
 
+- Facebook: 10k+ followers, events, active 
+- Instagram: not active 
+- Twitter: 14k+ follower, active, events 
+- LinkedIn: not active 
+
 **popularity:**
+
+- 10,000+ customers 
 
 ---
 
@@ -404,7 +462,6 @@ https://www.signalfx.com/ +
 - Twitter: frequent posts, 2k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
-
 
 
 **Dynatrace:** +
