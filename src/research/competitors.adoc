@@ -6,31 +6,39 @@ https://statushub.com/
 
 **features:**
 
-- Free Trial
-- Create incidents manually or through integrations
-- Communicate incident status and service status (or don’t)
-- Manage incidents and maintenance events across multiple services
+- Incident Communication 
 - Create and schedule maintenance events
-- Set history as list or calendar view
-- Create and use templates for incidents and maintenance events
-- Leverage off-site hosting
 - API
+- Off-site Hosting 
 - Hub-switcher
 - Private or public status site
 - Embeddable status sharing
-- Use of integrations
+- Connect to monitoring tools 
 - Multiple notification channels
-- Manage SMS usage
-- Import subscribers and manage subscription settings
+- Import subscribers and manage subscription settings via CSV import tool 
 
 **pricing:**
 
-- monthly: $49 - $299
-- yearly: $529 - $3,229
+- free trial  
+
+- monthly:
+- basic: $49
+- standard: $99
+- premium: $299
+- enterprise: contact them 
+
+- yearly:
+- basic: $529
+- standard: $1,069
+- premium: $3,229
+- enterprise: contact them 
 
 **marketing strategies:**
 
-- TBD
+- brand: efficiency, flexibility, communication, trust 
+- advertising: social media, blog posts on website, seems minimal though
+- target audience: tech people 
+- USP: automatic incident communication
 
 **social media:**
 
@@ -38,10 +46,19 @@ https://statushub.com/
 - Twitter: monthly posts, 57 followers, not much engagement, no hashtags
 - LinkedIn
 - Instagram
+- not really used 
+
+**customers:**
+
+- colleges, universities, companies 
+- Iowa State University, Michigan State University, University of Wales 
+- Accruent, Bottomline Technologies, Citrix, Fannie Mae, McKesson
 
 **popularity:**
 
-- TBD
+- some featured customers on website, did not find much about it nor reviews 
+
+
 
 **StatusPage:**
 
@@ -49,46 +66,58 @@ https://www.statuspage.io/
 
 **features:**
 
-- Better communication with Incidents
-- Status for each part of your service with Components
-- Inform users about future Scheduled Maintenance
+- Displays incidents 
+- Shows status of each function/component: https://help.statuspage.io/knowledge_base/topics/overview-1
+- Inform users about Scheduled Maintenance
 - Incident Templates
-- Third Party Components
-- ChatOps Integrations
-- Status Embed
 - Automation Integrations
 - API
-- Proactively notify users
-- Get the right notification to the right user
-- Notification redundancy
-- Uptime Showcase
-- Display how well your systems are performing (system metrics)
-- Import data from tools you already use
-- Custom Logo and URL
-- Maintain your brand's design
-- Designed for every device
-- For internal eyes only
-- Say goodbye to duplicate IT tickets
-- Pipe status updates into Slack
+- System metrics
 
 **pricing:**
 
-- public page (monthly): $29 - $1,499
-- private page (monthly): $79 - $1,499
+- free trial 
+
+Monthly: 
+
+Public Page: 
+
+- hobby: $29
+- startup: $99
+- business: $399
+- enterprise: $1,499
+
+Private Page: 
+
+- starter: $79
+- growth: $249
+- corporate: $599
+- enterprise: $1,499
+
 
 **marketing strategies:**
 
-- TBD
+- brand: trust, easy communication, “Just like DigitalOcean, Dropbox, and Intercom“
+- advertising: mainly through Atlassian, Google ads 
+- target audience: support, devops and IT teams, incident response teams, marketing and sales teams
+- USP: comprehensive status page, “everything you need in a status page, right out of the box“
+
+**customers:**
+
+- SaaS companies, Dev, IT Teams, Universities 
+- Digital Ocean, Reddit, University of Colorado, MIT 
 
 **social media:**
 - Facebook: 242 likes, nothing since 2017
 - Twitter: not in use since 2014
 - LinkedIn
 - Instagram
+- not really in use, mainly Atlassian 
 
 **popularity:**
 
-- TBD
+- thousands of companies as customers
+
 
 **Pingdom:**
 
@@ -102,25 +131,252 @@ https://www.pingdom.com/
 - real user monitoring
 - transaction monitoring
 - server monitor
+- tailor incident management 
+- real time alerts
 
 **pricing:**
 
-- monthly: $14.95 - $249
-- yearly: $11.95 - $199 (per month)
+Monthly: 
+
+- starter: £9.95
+- standard: £33.95
+- advanced: £59.95
+- professional: £164.00
+
+Yearly: (per month) 
+
+- starter: £7.95
+- standard: £27.00 
+- advanced: £48.00
+- professional: £131.00
 
 **marketing strategies:**
 
-- TBD
+- brand: easy, efficient, a solution, puts you ahead of competitors 
+- advertising: social media, customer reviews 
+- target audience: e-commerce, developers, managers
+- USP: amazing end-user experience 
+
+**customers:**
+
+- all kinds of companies, including Imgur, Netflix, Evernote, Shopify and Buzzfeed 
 
 **social media:**
 - Facebook: 55k likes, regular posts, little engagement with posts
 - Twitter: regular posts, 94k followers, not much engagement, no hashtags
-- LinkedIn
-- Instagram
+- LinkedIn: not really in use 
+- Instagram: not really in use 
+- blog on website 
 
 **popularity:**
 
-- TBD
+- 850,000 users, very popular 
+
+--- 
+
+### New competitors found
+
+**Octobox:**
+https://octobox.io/
+
+**features:**
+
+- manages GitHub notifications 
+- host your own 
+
+**pricing:**
+
+- free for open source projects 
+- private repositories: from $10/user/month
+
+**marketing strategies:**
+
+- brand: open source, efficient, easy managing 
+- advertising: cant find anything 
+- target audience: github users with several projects 
+- USP: github notification management 
+
+**customers:**
+
+- developers from Facebook, Google, Angular etc 
+
+**social media:**
+
+- no Instagram, Facebook or LinkedIn
+- Twitter: new, fairly regular posts 
+
+**popularity:**
+
+- not sure
+
+
+**Uptrends:**
+https://www.uptrends.com/
+
+**features:**
+
+- website monitoring 
+- web application monitoring 
+- web performance monitoring 
+- API monitoring 
+- real user monitoring 
+- server monitoring 
+
+**pricing:**
+
+Basic Monthly: 
+
+- starter: £7.43
+- premium: £25.98
+- professional: £103.92
+
+Advanced Monthly:
+
+- business: £17.78
+- enterprise: £32.17
+
+Yearly: 
+20% off monthly 
+
+**marketing strategies:**
+
+- brand: comprehensive, for teams, adaptable 
+- advertising: live product demo, social media, customer reviews 
+- target audience: tech teams 
+- USP: ultimate monitoring tool 
+
+**customers:**
+
+- companies like Microsoft, HP, Lenovo, Virgin etc. 
+
+**social media:**
+
+- used to advertise and engage, regular posts on Facebook, Twitter and LinkedIn
+
+**popularity:**
+
+- 25,000 users 
+
+
+**Uptime Robot:**
+https://uptimerobot.com/
+
+**features:**
+
+- website monitoring 
+- downtime notifications 
+- API 
+- public status page 
+
+**pricing:**
+
+- free 
+- pro-plan: $4.50/month 
+
+**marketing strategies:**
+
+- brand: simple, effective, efficient, friendly 
+- advertising: social media 
+- target audience: IT teams 
+- USP: simplicity
+
+**customers:**
+
+- companies like Mini and Expedia 
+
+**social media:**
+
+- Twitter: 15k followers, active, interactive 
+- Facebook: 5k followers, active 
+- LinkedIn: not in use 
+- Instagram: no
+
+**popularity:**
+
+- 600,000+ users
+- good reviews: https://www.g2.com/products/uptimerobot/reviews
+
+
+**New Relic:**
+https://newrelic.com/
+
+**features:**
+
+- real time analytics: metrics, dashboards and alerts 
+- full stack visibility: customer experience, applications and infrastructure 
+- scalable cloud platform 
+- applied intelligence 
+
+**pricing:**
+
+- $69-999/month/app
+
+**marketing strategies:**
+
+- brand: efficient, clear, useful, improvement, customer tested and trusted
+- advertising: customer reviews, partnerships with IBM Bluemix, Amazon Web Services and Microsoft Azure and more
+- target audience: DevOps, managers 
+- USP: improves your business 
+
+**customers:**
+
+- companies like Ryanair and Condé Nast 
+
+**social media:**
+
+- Instagram: focused on community 
+- Facebook: active, interactive, 30k+ followers
+- Twitter: active, interactive, 70k+ followers
+- LinkedIn: active, interactive, 40k+ followers
+
+**popularity:**
+
+- over 17,000 customers 
+- huge revenue, on stock exchange 
+
+
+**Site24x7:**
+https://www.site24x7.com/
+
+**features:**
+
+- website monitoring 
+- server monitoring 
+- application monitoring 
+- network monitoring 
+- real user monitoring 
+
+**pricing:**
+
+- free trial 
+
+All in one plan/month: 
+- pro: $35
+- classic: $89
+- elite: $225
+- enterprise: $449
+
+**marketing strategies:**
+
+- brand: simple, comprehensive, effective
+- advertising: referral partners, reseller partners, social media 
+- target audience: DevOps and IT operations 
+- USP: all in one monitoring solution 
+
+**customers:**
+
+- companies like Nasa, cisco, ford 
+
+**social media:**
+
+- Facebook: 10k+ followers, events, active 
+- Instagram: not active 
+- Twitter: 14k+ follower, active, events 
+- LinkedIn: not active 
+
+**popularity:**
+
+- 10,000+ customers 
 
 ---
 
@@ -140,14 +396,13 @@ https://www.instana.com/ +
 - APM: $67 per host per month +
 - IM: $10 per host per month +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 326 likes, regular posts, little engagement with posts +
 - Twitter: regular posts, 3k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
+
 
 **Atlassian:** +
 https://www.atlassian.com/ +
@@ -168,14 +423,13 @@ https://www.atlassian.com/ +
 - public page per month: $29 - $1,499 +
 - private page per month: $79 - $1,499 +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 209k likes, regular posts, little engagement with posts +
 - Twitter: frequent posts, 76k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
+
 
 **SignalFx:** +
 https://www.signalfx.com/ +
@@ -203,14 +457,12 @@ https://www.signalfx.com/ +
 **pricing:** +
 - per host per month: $15 - $65 +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 410 likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 2k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
 
-**popularity:** +
 
 **Dynatrace:** +
 https://www.dynatrace.com/ + 
@@ -228,11 +480,8 @@ https://www.dynatrace.com/ +
 - free trial +
 - actual price not given +
 
-**marketing strategies:** +
 **social media:** +
 - Facebook: 3k likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 15k followers, not much engagement, no hashtags + 
 - LinkedIn + 
 - Instagram + 
-
-**popularity:** +
