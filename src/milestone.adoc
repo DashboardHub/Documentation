@@ -4,15 +4,16 @@ Current milestones for DashboardHub
 ....
 gantt
     title DashboardHub RoadMap 2019
-    dateFormat DD-MM-YY
+    dateFormat YYYY-MM-DD
 
     section Version 11.6
-    Monitors :active, monitors, 20d
+    Project monitoring :active, 2019-06-25, 20d
 
     section Version 11.7
-    Webhooks :crit, webhooks, 30d
-    Deployments :deployments, after monitors, 10d
+    Repo webhooks      :crit, 2019-07-01, 30d
+    Repo deployment    :2019-07-20, 10d
 
     section Version 11.8
-    Project dashboard :dashboard, after deployments, 10d
+    Project dashboard :2019-08-01, 20d
+    BAU               :2019-08-20, 10d
 ....
