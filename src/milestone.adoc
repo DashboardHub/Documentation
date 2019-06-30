@@ -1,0 +1,18 @@
+Current milestones for DashboardHub
+
+[mermaid, milestone, svg]
+....
+gantt
+    title DashboardHub RoadMap 2019
+    dateFormat DD-MM-YY
+
+    section Version 11.6
+    Monitors :active, monitors, 20d
+
+    section Version 11.7
+    Webhooks :crit, webhooks, 30d
+    Deployments :deployments, after monitors, 10d
+
+    section Version 11.8
+    Project dashboard :dashboard, after deployments, 10d
+....
