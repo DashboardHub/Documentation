@@ -1,6 +1,6 @@
-# Firebase research
+=== Firebase research
 
-## Checklist
+==== Checklist
 
 - [x] DB - No SQL
 - [x] Typescript
@@ -15,7 +15,7 @@
 - [x] Auth
 - [ ] ~~Manage users~~
 
-## Dashboard criteria
+==== Dashboard criteria
 
 - [x] GitHub OAuth
 - [x] Realtime

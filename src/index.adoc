@@ -13,6 +13,11 @@ By DashboardHub Team
 This is the documentation and notes for the DashboardHub team and community.
 
 <<<
+== Milestone
+
+include::milestone.adoc[]
+
+<<<
 == RETROs
 
 include::retros/index.adoc[]

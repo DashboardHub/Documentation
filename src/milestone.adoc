@@ -1,0 +1,19 @@
+Current milestones for DashboardHub
+
+[mermaid, milestone, svg]
+....
+gantt
+    title DashboardHub RoadMap 2019
+    dateFormat YYYY-MM-DD
+
+    section Version 11.6
+    Project monitoring :active, 2019-06-25, 20d
+
+    section Version 11.7
+    Repo webhooks      :crit, 2019-07-01, 30d
+    Repo deployment    :2019-07-20, 10d
+
+    section Version 11.8
+    Project dashboard :2019-08-01, 20d
+    BAU               :2019-08-20, 10d
+....

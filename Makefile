@@ -7,7 +7,7 @@ assets:
 	(cd build; wget https://raw.githubusercontent.com/DashboardHub/Assets/master/favicon.ico)
 
 html:
-	asciidoctor src/index.adoc -D build/
+	asciidoctor src/index.adoc -D build/ -r asciidoctor-diagram
 
 pipeline.version.startBuild:
 	curl -XPOST -H "Content-Type: application/json"  -d '{"release":"v0.1.${TRAVIS_BUILD_NUMBER}"}' https://api-pipeline.dashboardhub.io/environments/c872c990-e00e-11e8-8edd-3b4a3fbd64f7/deployed/${DH_TOKEN}/startBuild
