@@ -8,6 +8,7 @@ branches:
 
 before_script:
   - gem install asciidoctor
+  - gem install asciidoctor-diagram
   - asciidoctor -v
   - npm install -g mermaid.cli
   - make pipeline.version.startBuild
