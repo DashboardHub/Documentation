@@ -4,7 +4,7 @@ reset:
 	rm -fr build/*
 
 assets:
-	(cd build; wget https://raw.githubusercontent.com/DashboardHub/Assets/master/favicon.ico)
+	(cd build; wget https://cdn.dashboardhub.io/logo/favicon.ico)
 
 html:
 	asciidoctor src/index.adoc -D build/ -r asciidoctor-diagram
